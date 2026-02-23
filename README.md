@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![background-photo](background-photo.png)
 
 <!--
